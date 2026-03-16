@@ -1,0 +1,51 @@
+[
+  {
+    "id": "game1",
+    "name": "Ring Toss Precision",
+    "description": "Drag your finger to aim and release the ring toward the target post. Score points for accuracy.",
+    "icon": "target",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "game2",
+    "name": "Moving Target",
+    "description": "Hit a target that moves horizontally across the screen. Timing is everything.",
+    "icon": "arrow.left.arrow.right",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "game3",
+    "name": "Reaction Ring",
+    "description": "Tap the glowing ring before it disappears. Test your reaction speed.",
+    "icon": "bolt.fill",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "game4",
+    "name": "Multi Target Combo",
+    "description": "Hit a sequence of numbered targets in the correct order as fast as possible.",
+    "icon": "square.grid.3x3.fill",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "game5",
+    "name": "Balance Ring",
+    "description": "Keep the ring centered on the balance point by tilting your device or dragging.",
+    "icon": "circle.circle",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "game6",
+    "name": "Ring Rush",
+    "description": "Collect as many rings as possible falling from the top of the screen in 30 seconds.",
+    "icon": "timer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "game9",
+    "name": "Speed Rings",
+    "description": "Tap rings as they appear on screen as quickly as possible. Beat the clock.",
+    "icon": "hare.fill",
+    "difficulty": "Easy"
+  }
+]

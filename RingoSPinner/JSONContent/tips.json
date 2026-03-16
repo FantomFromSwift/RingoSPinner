@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tip1",
+    "title": "Morning Warm-Up",
+    "content": "Always warm up your wrists and fingers for five minutes before any ring practice. This prevents strain and improves control.",
+    "category": "Preparation"
+  },
+  {
+    "id": "tip2",
+    "title": "Eyes on Target",
+    "content": "Fix your gaze on the exact landing point for at least one second before releasing the ring. This quiet-eye technique improves accuracy by up to 20 percent.",
+    "category": "Focus"
+  },
+  {
+    "id": "tip3",
+    "title": "Breathe Before You Throw",
+    "content": "Take a deep inhale and release the ring as you exhale. This natural rhythm reduces tension and steadies your hand.",
+    "category": "Technique"
+  },
+  {
+    "id": "tip4",
+    "title": "Spin Equals Stability",
+    "content": "A ring with backspin flies straighter and resists wobble. Practice imparting spin with your index and middle fingers.",
+    "category": "Physics"
+  },
+  {
+    "id": "tip5",
+    "title": "Track Your Progress",
+    "content": "Record your accuracy after every session. Small daily improvements compound into major gains over weeks.",
+    "category": "Training"
+  },
+  {
+    "id": "tip6",
+    "title": "Grip Pressure Sweet Spot",
+    "content": "Hold the ring firmly enough to control it but loosely enough for a smooth release. Imagine holding a small bird.",
+    "category": "Technique"
+  },
+  {
+    "id": "tip7",
+    "title": "Hydration Matters",
+    "content": "Even mild dehydration reduces fine motor control. Drink water throughout your training session.",
+    "category": "Preparation"
+  },
+  {
+    "id": "tip8",
+    "title": "Non-Dominant Hand Drills",
+    "content": "Spend ten percent of practice time throwing with your non-dominant hand to build bilateral coordination.",
+    "category": "Training"
+  },
+  {
+    "id": "tip9",
+    "title": "Visualize Success",
+    "content": "Before every throw, briefly imagine the ring following the perfect arc to the target. Mental rehearsal primes your motor system.",
+    "category": "Focus"
+  },
+  {
+    "id": "tip10",
+    "title": "Rest Days Are Training Days",
+    "content": "Your brain consolidates motor patterns during rest. Schedule at least one full rest day per week.",
+    "category": "Recovery"
+  },
+  {
+    "id": "tip11",
+    "title": "Use the Follow-Through",
+    "content": "Your hand should continue moving toward the target after release. Cutting the follow-through short reduces accuracy.",
+    "category": "Technique"
+  },
+  {
+    "id": "tip12",
+    "title": "Wind Reading Basics",
+    "content": "Observe grass, flags, or leaves to gauge wind direction and speed before outdoor throws.",
+    "category": "Physics"
+  },
+  {
+    "id": "tip13",
+    "title": "Session Length Matters",
+    "content": "Short focused sessions of 20-30 minutes beat long unfocused ones. Quality over quantity always.",
+    "category": "Training"
+  },
+  {
+    "id": "tip14",
+    "title": "Cold Hands Fix",
+    "content": "In cold weather, rub your hands together vigorously for 30 seconds or use a warm water soak before practicing.",
+    "category": "Preparation"
+  },
+  {
+    "id": "tip15",
+    "title": "Process Over Outcome",
+    "content": "Focus on executing perfect technique rather than whether the ring hits the target. Good process leads to good outcomes.",
+    "category": "Focus"
+  },
+  {
+    "id": "tip16",
+    "title": "Core Engagement",
+    "content": "Engage your core muscles during the throw for better force transfer from your legs to your throwing arm.",
+    "category": "Technique"
+  },
+  {
+    "id": "tip17",
+    "title": "Sleep for Skill",
+    "content": "Aim for eight hours of sleep after training days. Motor memory consolidation peaks during deep sleep.",
+    "category": "Recovery"
+  },
+  {
+    "id": "tip18",
+    "title": "Caffeine Timing",
+    "content": "Consume caffeine 30-60 minutes before training for enhanced alertness and reaction speed.",
+    "category": "Preparation"
+  },
+  {
+    "id": "tip19",
+    "title": "Random Practice",
+    "content": "After mastering the basics, vary distance, angle, and ring type every throw. Random practice builds adaptable skills.",
+    "category": "Training"
+  },
+  {
+    "id": "tip20",
+    "title": "Reset After a Miss",
+    "content": "Step back, take one deep breath, and refocus before your next throw. Never rush after a bad attempt.",
+    "category": "Focus"
+  }
+]

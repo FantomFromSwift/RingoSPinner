@@ -1,5 +1,5 @@
 import Foundation
-import StoreKit
+internal import StoreKit
 import Observation
 
 @Observable
@@ -21,9 +21,8 @@ final class IAPManagerVE: NSObject {
     private(set) var purchasedProductIds: Set<String> = []
 
     private let productIds: Set<String> = [
-        "com.pmmaster.goldentactics",
-        "com.pmmaster.darkcoachroom",
-        "com.pmmaster.elitetraining"
+        "com.ringospinner.theme.neon",
+        "com.ringospinner.theme.sunrise"
     ]
 
     private override init() {

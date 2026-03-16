@@ -1,0 +1,162 @@
+[
+  {
+    "id": "task1",
+    "title": "Ring Grip Fundamentals",
+    "description": "Master the three basic grip types for ring throwing. This task walks you through pinch, hook, and cradle grips with progressive difficulty.",
+    "steps": ["Hold the ring with a pinch grip between thumb and index finger. Feel the balance point.", "Rotate the ring 90 degrees while maintaining the pinch grip without dropping it.", "Switch to a hook grip by curling your fingers over the ring edge.", "Practice transitioning between pinch and hook grip ten times.", "Hold the ring in a cradle grip with the ring resting across your palm.", "Perform five smooth releases from each grip type and note which feels most natural."],
+    "difficulty": "Beginner",
+    "icon": "hand.raised.fill"
+  },
+  {
+    "id": "task2",
+    "title": "Short Range Accuracy Drill",
+    "description": "Improve your close-range precision by throwing at a target from 1.5 meters with increasing accuracy demands.",
+    "steps": ["Set up a target at 1.5 meters distance.", "Perform five warm-up throws without focusing on accuracy.", "Throw ten rings aiming for the center zone. Record your hits.", "Narrow the target area by 50 percent using a smaller marker.", "Throw ten more rings at the smaller target. Compare hit rates.", "Rest for two minutes, then do a final set of ten throws. Track improvement."],
+    "difficulty": "Beginner",
+    "icon": "target"
+  },
+  {
+    "id": "task3",
+    "title": "Reaction Speed Baseline",
+    "description": "Establish your baseline reaction time with visual stimulus drills that you will improve upon in future tasks.",
+    "steps": ["Open the Reaction Ring mini game in this app.", "Complete five rounds and record each time.", "Calculate your average reaction time.", "Rest for thirty seconds between each round.", "Complete five more rounds trying to beat your average.", "Record your new average as your baseline."],
+    "difficulty": "Beginner",
+    "icon": "bolt.fill"
+  },
+  {
+    "id": "task4",
+    "title": "Wrist Flexibility Routine",
+    "description": "A complete wrist flexibility session to improve range of motion critical for a clean ring release.",
+    "steps": ["Extend your arms and rotate your wrists in circles for thirty seconds each direction.", "Perform wrist flexion stretches by pressing your palms together and lowering your elbows.", "Do wrist extension stretches by pressing the backs of your hands together.", "Use a rubber band around your fingers and open them against resistance twenty times.", "Perform finger opposition drills touching each fingertip to thumb rapidly for one minute.", "Finish with gentle wrist shakes to release tension."],
+    "difficulty": "Beginner",
+    "icon": "hand.point.up.fill"
+  },
+  {
+    "id": "task5",
+    "title": "Progressive Distance Challenge",
+    "description": "Systematically increase throwing distance while maintaining accuracy above 60 percent.",
+    "steps": ["Start at 2 meters and throw ten rings. Record hits.", "Move back to 2.5 meters and throw ten rings.", "Move to 3 meters and throw ten rings.", "If accuracy drops below 60 percent stop and repeat that distance.", "Move to 3.5 meters for the final set.", "Compare accuracy percentages across all distances."],
+    "difficulty": "Intermediate",
+    "icon": "arrow.right"
+  },
+  {
+    "id": "task6",
+    "title": "Dual Hand Coordination",
+    "description": "Train your non-dominant hand to throw rings with reasonable accuracy for improved bilateral coordination.",
+    "steps": ["Warm up your non-dominant hand with five minutes of finger exercises.", "Throw five rings with your dominant hand to establish a feel.", "Switch to your non-dominant hand and throw five rings at 1.5 meters.", "Complete three sets of ten throws with each hand alternating.", "Record accuracy for each hand separately.", "Compare dominant versus non-dominant accuracy improvement over sessions."],
+    "difficulty": "Intermediate",
+    "icon": "hands.sparkles.fill"
+  },
+  {
+    "id": "task7",
+    "title": "Speed Throw Session",
+    "description": "Focus on increasing throw velocity while maintaining a minimum of 50 percent accuracy.",
+    "steps": ["Perform a full warm-up routine for shoulders and wrists.", "Throw ten rings at normal speed and record accuracy.", "Increase throw speed by approximately 20 percent for the next ten throws.", "Maximum effort throws for ten rings while maintaining form.", "Rest two minutes then repeat maximum effort set.", "Analyze if speed increase helped or hurt your hit rate."],
+    "difficulty": "Intermediate",
+    "icon": "hare.fill"
+  },
+  {
+    "id": "task8",
+    "title": "Blind Release Training",
+    "description": "Develop proprioceptive awareness by practicing releases with eyes closed at short range.",
+    "steps": ["Set up a target at 1 meter distance.", "With eyes open throw five rings to calibrate.", "Close your eyes and visualize the target position.", "Release a ring with eyes closed. Open eyes to check result.", "Repeat the eyes-closed throw ten times.", "Record how many landed within 30 centimeters of the target."],
+    "difficulty": "Advanced",
+    "icon": "eye.slash.fill"
+  },
+  {
+    "id": "task9",
+    "title": "Spin Control Mastery",
+    "description": "Learn to control ring spin rate and axis to improve flight stability and landing accuracy.",
+    "steps": ["Practice spinning a ring on your index finger for thirty seconds.", "Throw a ring with minimal spin and observe the flight path.", "Throw with moderate backspin and compare the trajectory.", "Throw with aggressive topspin and note the difference.", "Find the spin rate that produces the flattest most stable flight.", "Perform twenty throws with your optimal spin rate and record accuracy."],
+    "difficulty": "Advanced",
+    "icon": "arrow.triangle.2.circlepath"
+  },
+  {
+    "id": "task10",
+    "title": "Pressure Simulation Drill",
+    "description": "Simulate competition pressure by adding time constraints and consequences to your throwing practice.",
+    "steps": ["Set a timer for two minutes.", "Throw as many accurate rings as possible before the timer expires.", "Record your total throws and successful hits.", "Rest one minute then repeat with a ninety-second timer.", "Add a rule where each miss subtracts one point from your score.", "Complete three rounds and track your best performance under pressure."],
+    "difficulty": "Advanced",
+    "icon": "timer"
+  },
+  {
+    "id": "task11",
+    "title": "Target Switching Speed",
+    "description": "Improve your ability to quickly re-aim between multiple targets in rapid succession.",
+    "steps": ["Set up three targets at different positions at the same distance.", "Throw at target one then immediately switch to target two.", "Continue cycling through all three targets for fifteen throws.", "Time how long the full cycle takes.", "Rest and repeat trying to reduce total time by ten percent.", "Record your fastest cycle time."],
+    "difficulty": "Intermediate",
+    "icon": "arrow.left.arrow.right"
+  },
+  {
+    "id": "task12",
+    "title": "Visualization Session",
+    "description": "A guided mental imagery session to reinforce your throwing technique without physical fatigue.",
+    "steps": ["Find a quiet space and assume your throwing stance.", "Close your eyes and visualize the target in vivid detail.", "Imagine picking up the ring feeling its weight and texture.", "Mentally rehearse the full throwing motion at real-time speed.", "Visualize the ring flying in a perfect arc and landing on target.", "Open your eyes and perform five real throws noting if they feel different."],
+    "difficulty": "Beginner",
+    "icon": "brain.fill"
+  },
+  {
+    "id": "task13",
+    "title": "Endurance Accuracy Test",
+    "description": "Test how your accuracy holds up over a long session of 100 throws to build throwing stamina.",
+    "steps": ["Warm up thoroughly for ten minutes.", "Throw sets of twenty rings with a one-minute rest between sets.", "Record accuracy for each set of twenty.", "Complete five sets for a total of 100 throws.", "Note at which set your accuracy began to decline.", "Use this data to determine your optimal session length."],
+    "difficulty": "Advanced",
+    "icon": "chart.bar.fill"
+  },
+  {
+    "id": "task14",
+    "title": "Angle Variation Series",
+    "description": "Practice throwing from different body angles to develop adaptability in varied situations.",
+    "steps": ["Throw ten rings from a standard front-facing position.", "Rotate your body 30 degrees to the right and throw ten rings.", "Rotate 30 degrees to the left and throw ten rings.", "Try throwing from a kneeling position for five rings.", "Throw with a side-arm release for five rings.", "Compare accuracy across all positions."],
+    "difficulty": "Intermediate",
+    "icon": "angle"
+  },
+  {
+    "id": "task15",
+    "title": "Cool-Down and Recovery Protocol",
+    "description": "A structured cool-down routine to prevent injury and promote muscle recovery after ring training.",
+    "steps": ["Walk slowly for two minutes to lower your heart rate.", "Perform static stretches for your forearms holding each for thirty seconds.", "Stretch your shoulders with cross-body arm pulls.", "Do gentle neck rotations in each direction.", "Massage your throwing hand and wrist for two minutes.", "Rate your session fatigue from one to ten and log it."],
+    "difficulty": "Beginner",
+    "icon": "leaf.fill"
+  },
+  {
+    "id": "task16",
+    "title": "Moving Target Tracking",
+    "description": "Train your ability to track and hit targets that change position between throws.",
+    "steps": ["Have a partner hold the target and shift it slightly after each throw.", "Throw five rings while the target moves horizontally.", "Throw five rings while the target moves vertically.", "Increase the movement speed of the target.", "Complete twenty throws total and record hit percentage.", "Compare to your stationary target accuracy."],
+    "difficulty": "Advanced",
+    "icon": "scope"
+  },
+  {
+    "id": "task17",
+    "title": "Ring Weight Adaptation",
+    "description": "Practice with rings of different weights to develop feel and adaptability.",
+    "steps": ["Start with your standard ring and throw ten accurate throws.", "Switch to a heavier ring and throw ten times.", "Switch to a lighter ring and throw ten times.", "Return to the standard ring and observe if your accuracy changed.", "Record accuracy for each ring weight.", "Identify which weight feels most controllable for you."],
+    "difficulty": "Intermediate",
+    "icon": "scalemass.fill"
+  },
+  {
+    "id": "task18",
+    "title": "Breathing Pattern Integration",
+    "description": "Integrate deliberate breathing patterns into your throwing routine for improved consistency.",
+    "steps": ["Inhale deeply for four seconds before each throw.", "Hold your breath for two seconds while aiming.", "Exhale smoothly during the release.", "Practice this pattern for twenty throws.", "Try throwing without the breathing pattern for ten throws.", "Compare accuracy between patterned and unpatterned throws."],
+    "difficulty": "Beginner",
+    "icon": "wind"
+  },
+  {
+    "id": "task19",
+    "title": "Competition Simulation",
+    "description": "Full simulation of a competitive ring throwing round with scoring and pressure elements.",
+    "steps": ["Set up the regulation distance and target.", "Follow official competition warm-up timing of three minutes.", "Execute your pre-throw routine before every throw.", "Complete a full round of thirty throws with scoring.", "Take breaks only at designated intervals.", "Calculate your final score and compare to previous simulations."],
+    "difficulty": "Advanced",
+    "icon": "trophy.fill"
+  },
+  {
+    "id": "task20",
+    "title": "Weekly Assessment Protocol",
+    "description": "A comprehensive weekly test to measure progress across all key performance areas.",
+    "steps": ["Measure your reaction time with five trials in the app.", "Test accuracy at three standard distances with ten throws each.", "Perform a grip strength test with a dynamometer if available.", "Complete the coordination trainer pattern test.", "Record all results in your training journal.", "Compare with last week and identify areas for focused improvement."],
+    "difficulty": "Intermediate",
+    "icon": "list.clipboard.fill"
+  }
+]

@@ -1,0 +1,105 @@
+RINGOSPINNER ASSETS REFERENCE
+=============================
+
+All UI icons are SF Symbols. No custom image assets are required.
+
+SF SYMBOLS USED:
+================
+
+Navigation & UI:
+- house.fill (Home tab)
+- book.fill (Journal tab)
+- magnifyingglass (Search tab)
+- heart.fill (Favorites tab)
+- gearshape.fill (Settings tab)
+- chevron.left (Back button)
+- chevron.right (Disclosure indicator)
+- xmark.circle.fill (Clear search)
+
+Home Screen:
+- lightbulb.fill (Daily tip)
+- flame.fill (Streak)
+- star.fill (Score)
+- checkmark.circle.fill (Tasks completed)
+- play.circle.fill (Quick start)
+- calendar.badge.exclamationmark (Daily challenge)
+- bolt.fill (Reaction meter)
+- gamecontroller.fill (Recent activity)
+- target (First throw achievement)
+- checkmark.seal.fill (10 tasks achievement)
+- chart.bar.fill (Stats quick launch)
+- list.clipboard.fill (Tasks quick launch)
+- scope (Simulator quick launch)
+
+Articles Icons:
+- bolt.fill (Reaction Training)
+- hand.raised.fill (Motor Control)
+- atom (Throw Physics)
+- scope (Focus Training)
+- hand.point.up.fill (Dexterity)
+- calendar.badge.clock (Periodization)
+- eye.fill (Visual Tracking)
+- figure.core.training (Core Training)
+- brain.fill (Visualization)
+- flame.fill (Warm-up)
+- figure.walk (Proprioception)
+- leaf.fill (Nutrition)
+- arrow.up.right (Biomechanics)
+- chart.line.uptrend.xyaxis (Progressive Overload)
+- moon.fill (Recovery)
+- trophy.fill (Competition)
+- hand.raised.fingers.spread.fill (Grip Types)
+- figure.mixed.cardio (Cross-Training)
+- cloud.sun.fill (Environment)
+- brain.head.profile.fill (Psychological Resilience)
+
+Mini Games Icons:
+- target (Ring Toss Precision)
+- arrow.left.arrow.right (Moving Target)
+- bolt.fill (Reaction Ring)
+- square.grid.3x3.fill (Multi Target Combo)
+- circle.circle (Balance Ring)
+
+Settings:
+- crown.fill (Premium store)
+- info.circle.fill (About)
+- arrow.clockwise (Restore purchases)
+- lock.fill (Locked theme)
+
+Onboarding:
+- target (Screen 1)
+- gamecontroller.fill (Screen 2)
+- chart.line.uptrend.xyaxis (Screen 3)
+- flame.fill (Screen 4)
+
+Miscellaneous:
+- play.fill (Start buttons)
+- arrow.right (Continue button)
+- checkmark (Complete button)
+- arrow.counterclockwise (Play again)
+- heart (Unfavorited)
+- heart.fill (Favorited)
+- heart.slash (Empty favorites)
+- book.closed.fill (Empty journal)
+- square.and.arrow.down (Save)
+- ruler (Distance)
+- angle (Angle control)
+- eye.fill (Visual tracking)
+
+ILLUSTRATIONS:
+==============
+All illustrations are generated using SwiftUI shapes and gradients.
+No raster image assets are used.
+
+Splash Screen:
+- Rotating concentric gradient ring circles
+- App name with gradient text
+
+Onboarding:
+- Animated SF Symbol icons with pulsing glow rings
+- Each screen uses themed gradient colors
+
+Backgrounds:
+- Animated floating gradient circles
+- Subtle ring stroke particles
+- Theme-aware color schemes
