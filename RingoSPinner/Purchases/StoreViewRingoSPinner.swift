@@ -4,8 +4,9 @@ internal import StoreKit
 
 struct StoreViewRingoSPinner: View {
     @Environment(ViewModelRingoSPinner.self) private var viewModel
+    @Environment(IAPManagerVE.self) private var iapManager
     @Environment(\.dismiss) private var dismiss
-    @State private var iapManager = IAPManagerVE.shared
+//    @State private var iapManager = IAPManagerVE.shared
 
     private let themes: [(id: String, name: String, colors: [Color])] = [
         ("com.ringospinner.theme.default", "Cosmic Blue", [Color(red: 0.4, green: 0.6, blue: 1.0), Color(red: 0.8, green: 0.4, blue: 1.0)]),

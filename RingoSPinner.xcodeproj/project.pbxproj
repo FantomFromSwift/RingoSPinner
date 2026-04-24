@@ -6,13 +6,33 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		4FAB1CEC2F9B7AE00060B2C2 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 4FAB1CEB2F9B7AE00060B2C2 /* FirebaseAuth */; };
+		4FAB1CEE2F9B7AE00060B2C2 /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = 4FAB1CED2F9B7AE00060B2C2 /* FirebaseCore */; };
+		4FAB1CF02F9B7AE00060B2C2 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 4FAB1CEF2F9B7AE00060B2C2 /* FirebaseFirestore */; };
+		4FAB1CF22F9B7AE00060B2C2 /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = 4FAB1CF12F9B7AE00060B2C2 /* FirebaseMessaging */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		4F41BCD02F6436EB00CEE1D3 /* RingoSPinner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RingoSPinner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		4FAB1D092F9B7E2C0060B2C2 /* Exceptions for "RingoSPinner" folder in "RingoSPinner" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 4F41BCCF2F6436EB00CEE1D3 /* RingoSPinner */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4F41BCD22F6436EB00CEE1D3 /* RingoSPinner */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				4FAB1D092F9B7E2C0060B2C2 /* Exceptions for "RingoSPinner" folder in "RingoSPinner" target */,
+			);
 			path = RingoSPinner;
 			sourceTree = "<group>";
 		};
@@ -23,6 +43,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FAB1CF22F9B7AE00060B2C2 /* FirebaseMessaging in Frameworks */,
+				4FAB1CEE2F9B7AE00060B2C2 /* FirebaseCore in Frameworks */,
+				4FAB1CEC2F9B7AE00060B2C2 /* FirebaseAuth in Frameworks */,
+				4FAB1CF02F9B7AE00060B2C2 /* FirebaseFirestore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +89,10 @@
 			);
 			name = RingoSPinner;
 			packageProductDependencies = (
+				4FAB1CEB2F9B7AE00060B2C2 /* FirebaseAuth */,
+				4FAB1CED2F9B7AE00060B2C2 /* FirebaseCore */,
+				4FAB1CEF2F9B7AE00060B2C2 /* FirebaseFirestore */,
+				4FAB1CF12F9B7AE00060B2C2 /* FirebaseMessaging */,
 			);
 			productName = RingoSPinner;
 			productReference = 4F41BCD02F6436EB00CEE1D3 /* RingoSPinner.app */;
@@ -94,6 +122,9 @@
 			);
 			mainGroup = 4F41BCC72F6436EB00CEE1D3;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				4FAB1CEA2F9B7AE00060B2C2 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 4F41BCD12F6436EB00CEE1D3 /* Products */;
 			projectDirPath = "";
@@ -251,11 +282,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P5FX297WUC;
+				CODE_SIGN_ENTITLEMENTS = RingoSPinner/RingoSPinner.entitlements;
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RingoSPinner/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -266,9 +299,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.RingoSPinner.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -288,11 +322,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P5FX297WUC;
+				CODE_SIGN_ENTITLEMENTS = RingoSPinner/RingoSPinner.entitlements;
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RingoSPinner/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -303,9 +339,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.RingoSPinner.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -342,6 +379,40 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		4FAB1CEA2F9B7AE00060B2C2 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.12.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		4FAB1CEB2F9B7AE00060B2C2 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4FAB1CEA2F9B7AE00060B2C2 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		4FAB1CED2F9B7AE00060B2C2 /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4FAB1CEA2F9B7AE00060B2C2 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+		4FAB1CEF2F9B7AE00060B2C2 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4FAB1CEA2F9B7AE00060B2C2 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		4FAB1CF12F9B7AE00060B2C2 /* FirebaseMessaging */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4FAB1CEA2F9B7AE00060B2C2 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseMessaging;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 4F41BCC82F6436EB00CEE1D3 /* Project object */;
 }
